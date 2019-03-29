@@ -1,9 +1,4 @@
 README
 ==
 
-
-vasya++
-
-Edit me
-
-Plz
+Tests for senior fullstack
